@@ -19,6 +19,7 @@
   - [**5. Recursos Utilizados**](#5-recursos-utilizados)
     - [**5.1. Fuentes y Assets**](#51-fuentes-y-assets)
     - [**5.2. Enlaces de Referencia**](#52-enlaces-de-referencia)
+  - [Repositorio GitHub](#repositorio-github)
 
 
 # **Memoria del Videojuego - Proyecto en Godot**
@@ -262,3 +263,7 @@ Estos son algunos de los recursos documentales y herramientas utilizadas en la p
   - [https://docs.godotengine.org](https://docs.godotengine.org)
 - **Plataformas de sonidos y música:**  
   - [https://pixabay.com/es/](https://pixabay.com/es/)
+
+## Repositorio GitHub
+
+[https://github.com/erikdaniel2004/DANIELEXPOSITO_ALUMNO_ARCANEHUNTER](https://github.com/erikdaniel2004/DANIELEXPOSITO_ALUMNO_ARCANEHUNTER)
